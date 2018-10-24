@@ -32,9 +32,6 @@ SPDX-License-Identifier: EPL-2.0 OR GPL-2.0 WITH Classpath-exception-2.0
 
 The project maintains the following source code repositories:
 
-* https://github.com/eclipse-ee4j/enterprise-deployment
-* https://github.com/eclipse-ee4j/jaxr-api
-* https://github.com/eclipse-ee4j/jax-rpc-api
 * https://github.com/eclipse-ee4j/management-api
 
 ## Third-party Content
